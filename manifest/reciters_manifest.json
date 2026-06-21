@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-06-21",
+  "reciters": [
+    {
+      "id": "abdulbasit",
+      "name": "Abdul Basit Abdul Samad",
+      "folder": "abdulbasit",
+      "sizeEstimateMb": 25,
+      "releaseTag": "abdul-basit-v1"
+    }
+  ]
+}
